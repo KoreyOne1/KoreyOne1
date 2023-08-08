@@ -3,7 +3,11 @@
       pero me gustaria especializarme en C, C++, Phyton y java 
 - 🌱 Actualmente estudio en la Facultad de Estudios Superiores Acatlan UNAM
       la licenciatura de Matematicas Aplicadas y Computacion.
-      y a la par tomo un curso de Analisis de datos impartido por google en colaboracion con INROADS 
+      y a la par tomo cursos como:
+      Introducción a Data Science: Programación Estadística con R impartido por la UNAM
+      Analisis de datos impartido por google en colaboracion con INROADS
+      introduccion a la ciberseguridad impartidos por CISCO
+      
 - 💞️ busco colaborar en proyectos los cuales puedan dejarme nuevas experiencias y a la par yo dejar lo mejor de mi
 - 📫 pueden contactarme mediante mail en koreyone99@gmail.com
 
