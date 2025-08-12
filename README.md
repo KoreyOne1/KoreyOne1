@@ -1,5 +1,8 @@
+<p align="center">
+ <img width="1280" height="325" alt="1" src="https://github.com/user-attachments/assets/7019151b-76fa-4a42-8875-4584edfcdaf8" />
 
-![Banner](img width="1536" height="1024" alt="ChatGPT Image 11 ago 2025, 09_40_19 p m" src="https://github.com/user-attachments/assets/c6a69d03-47ed-4079-b96e-477b82b0be62")
+</p>
+
 
 # ¡Hola! 👋 Soy Jayr ( @KoreyOne1 )
 
