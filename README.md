@@ -1,3 +1,6 @@
+
+![Banner](img width="1536" height="1024" alt="ChatGPT Image 11 ago 2025, 09_40_19 p m" src="https://github.com/user-attachments/assets/c6a69d03-47ed-4079-b96e-477b82b0be62")
+
 # ¡Hola! 👋 Soy Jayr ( @KoreyOne1 )
 
 🎓 **Estudiante de Matemáticas Aplicadas y Computación** en la FES Acatlán – UNAM.  
